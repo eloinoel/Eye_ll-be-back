@@ -1,5 +1,16 @@
-# Eye'll-be-back
+# eye_ll_be_back
 
-Every 20 minutes of looking at your screen you ought to give your eyes a break and look at something that is 20 meters away for 20 seconds.
+A new Flutter project.
 
-Simple Flutter app that runs in the background and sends a notification every 20 minutes of continuous screen time.
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
